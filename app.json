@@ -9,7 +9,7 @@
         "Bot"
     ],
     "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
-    "repository": "https://github.com/Benchamxd/Ai-Bot",
+    "repository": "https://github.com/kkara9009/Ai-Bot",
     "success_url": "/",
     "env": {
         "TG_BOT_TOKEN": {
